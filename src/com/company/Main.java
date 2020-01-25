@@ -84,7 +84,7 @@ public class Main {
             System.out.println(s);
         });
         */
-        System.out.println("Lambda 3 ------------- \n");
+
         System.out.println("Lambda 3 ------------- \n");
         Predicate<String> personPredicate = p -> p.charAt(1) != 'u';
         //l.removeIf(personPredicate);

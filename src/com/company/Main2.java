@@ -33,9 +33,8 @@ class Main2{
 
         Function<String, String> f =  s -> s;
         System.out.println("tzst");
-        System.out.println("tzst");
-        System.out.println("tzst");
-        System.out.println("tzst");
+        System.out.println("titi");
+
 
 
 

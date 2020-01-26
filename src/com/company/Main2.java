@@ -35,7 +35,7 @@ class Main2{
         System.out.println("tzst");
         System.out.println("tzst");
         System.out.println("tzst");
-        System.out.println("tzst");
+
 
 
 

@@ -34,6 +34,7 @@ class Main2{
         Function<String, String> f =  s -> s;
         System.out.println("tzst");
         System.out.println("Finaly this is the good one");
+        System.out.println("and i want to test MR on github");
 
 
 
